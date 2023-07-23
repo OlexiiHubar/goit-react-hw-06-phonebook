@@ -1,0 +1,16 @@
+.contact {
+  display: flex;
+  justify-content: space-between;
+}
+
+.list {
+  display: flex;
+  width: 400px;
+  flex-direction: column;
+  gap: 12px;
+}
+
+.name {
+  display: inline-block;
+  margin-right: 12px;
+}
